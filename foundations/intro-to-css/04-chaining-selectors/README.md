@@ -16,6 +16,8 @@ The properties you need to add to each element are:
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Did you properly chain class selectors for each rule? {1}
+- Does the `proportioned` image retain its original square proportions? {1}
+- Does the `distorted` image end up looking squished and, well, distorted? {1}
+
+*My Total: 3/3*

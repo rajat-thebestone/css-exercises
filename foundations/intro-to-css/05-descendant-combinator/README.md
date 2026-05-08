@@ -14,5 +14,8 @@ The properties you need to add are:
 
 
 ### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Do the elements that contain the text "This should be styled" have the correct styles applied? {1}
+- Do the elements that contain the text "This should be unstyled" have no styles applied? {1}
+
+This was the most easiest yet.
+*My total: 2/2*
